@@ -1,5 +1,4 @@
-Maria Dieci's website. Here, you can find the most updated information about what I am working on, thinking about, and teaching. All content is my own.
-
+Maria Dieci's website code. Adapted from Marisa Carlos (https://marisacarlos.com/pages/create-simple-academic-website).
 ---
 
 My parts of this web site are licensed under

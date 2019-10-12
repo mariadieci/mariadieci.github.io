@@ -4,10 +4,10 @@ title: Maria Dieci
 description: Maria Dieci's personal website. 
 keywords: Maria, Dieci, Health Economics, Berkeley
 ---
+ 
+I am a PhD student in Health Economics at the University of California, Berkeley. My research interests are in global health and development economics, broadly defined. My current work focuses on understanding the role of digital healthcare technology in improving access to high-quality care, and understanding determinants of parental investments in early childhood health.	  
 
-I am a PhD student in Health Economics at the University of California, Berkeley. My research interests are in development economics, maternal and child health, and understanding how patients and providers make decisions around health investments in low-resource settings.
-
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+<!-- [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/MDieci_CV.pdf)<br/> --!>
 
 
 ---
@@ -33,7 +33,7 @@ I am a PhD student in Health Economics at the University of California, Berkeley
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/MDieci_CV.pdf">cv</a></li>
           <li><a href="https://github.com/mariadieci">GitHub</a></li>
           <li><a href="https://twitter.com/MariaDieci">Twitter (@MariaDieci)</a></li>
       </ul>
