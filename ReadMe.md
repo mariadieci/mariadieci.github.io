@@ -1,4 +1,4 @@
-Maria Dieci's website code. Adapted from Marisa Carlos (https://marisacarlos.com/pages/create-simple-academic-website).
+Maria Dieci's code for personal website: mariadieci.com. Adapted from Marisa Carlos (https://marisacarlos.com/pages/create-simple-academic-website).
 ---
 
 My parts of this web site are licensed under
