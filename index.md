@@ -15,7 +15,7 @@ I've been involved in research projects throughout Africa and Latin America, and
 
 
 <div class="container">
-<h4><a name="Contact:"></a>contact</h4>
+<h4><a name="contact"></a>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
