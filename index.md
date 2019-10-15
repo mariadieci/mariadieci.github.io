@@ -35,9 +35,6 @@ I've been involved in research projects throughout Africa and Latin America, and
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/MDieci_CV.pdf">CV</a></li>
-		  
-		  
-          [comment]: # <li><a href="https://github.com/mariadieci">GitHub</a></li>
           <li><a href="https://twitter.com/MariaDieci">Twitter (@MariaDieci)</a></li>
       </ul>
   </div>
