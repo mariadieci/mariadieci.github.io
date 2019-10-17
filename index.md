@@ -4,7 +4,25 @@ title: Maria Dieci
 description: Maria Dieci's personal website. 
 keywords: Maria, Dieci, Health Economics, Berkeley
 ---
- 
+
+<div class="container">
+<h4><a name="contact"></a>Contact</h4>
+
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/headshot.jpg">
+            <img src="../assets/headshot.jpg"
+                  title="Maria Dieci" alt="Maria Dieci"/></a>
+        </div>
+    </div>
+</div>
+
+Maria Dieci <br />
+PhD Student in Health Economics <br />
+Department of Health Policy <br />
+University of California, Berkeley <br />
+<br />
+<br /> 
 I am a PhD student in Health Economics at the University of California, Berkeley. My research interests are in global health and development economics, broadly defined, in low-resource settings. <br /> 
 
 My current work focuses on understanding the role of digital healthcare technology in improving access to high-quality care, and understanding determinants of parental investments in early childhood health.  <br /> 
@@ -13,23 +31,6 @@ I've been involved in research projects throughout Africa and Latin America, and
 
 ---
 
-
-<div class="container">
-<h4><a name="contact"></a>Contact</h4>
-
-    <div class="row-fluid">
-        <div class="span5">
-            Maria Dieci<br/>
-            Email: dieci@berkeley.edu<br/>
-        </div>
-
-        <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Maria Dieci" alt="Maria Dieci"/></a>
-        </div>
-    </div>
-</div>
 
 <div class="navbar">
   <div class="navbar-inner">
