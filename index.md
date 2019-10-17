@@ -8,7 +8,7 @@ keywords: Maria, Dieci, Health Economics, Berkeley
 <div class="container">
     
 	<div class="row-fluid">
-        <div class="span2">
+        <div class="span5">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
                   title="Maria Dieci" alt="Maria Dieci"/></a>
