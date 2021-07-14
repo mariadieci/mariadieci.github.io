@@ -40,7 +40,7 @@ I've been involved in research projects throughout Africa and Latin America, and
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/MDieci_CV_07132021.pdf">CV</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/MDieci_CV.pdf">CV</a></li>
           <li><a href="https://twitter.com/MariaDieci">Twitter (@MariaDieci)</a></li>
       </ul>
   </div>
