@@ -20,7 +20,8 @@ keywords: Maria, Dieci, Health Economics, Berkeley
    <br>
    dieci [at] berkeley [dot] edu<br>
    <br>
-   Department of Health Policy<br>
+   Division of Health Policy and Management <br>
+   School of Public Health <br>
    University of California, Berkeley<br>
    </td>
 </tr>
@@ -32,7 +33,7 @@ Welcome! I am a PhD candidate in Health Economics at the University of Californi
 
 My current work focuses on understanding the role of digital healthcare technology and targeted incentives in improving access to high-quality care, and understanding parental investments in early childhood health.  <br /> 
 
-I've been involved in research projects throughout Africa and Latin America, and have conducted field work in Kenya, Madagascar, Zambia, Peru, Colombia and the Dominican Republic. Before graduate school, I worked at Innovations for Poverty Action in Zambia and in New Haven evaluating health and social safety net programs.
+I've been involved in research projects throughout Africa and Latin America, and have conducted field work in Kenya, Madagascar, Zambia, Peru, Colombia and the Dominican Republic. Before graduate school, I worked at Innovations for Poverty Action in Zambia and in New Haven evaluating health and social safety net programs. <br />
 
 <br>
 
