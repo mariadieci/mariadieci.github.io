@@ -30,7 +30,7 @@ keywords: Maria, Dieci, Health Economics, Berkeley
 
 Welcome! I am a PhD candidate in Health Economics at the University of California, Berkeley. My research interests are in global health and development economics, broadly defined, in low-resource settings. <br /> 
 
-My current work focuses on understanding the role of digital healthcare technology and targeted incentives in improving access to high-quality care, and understanding barriers to and determinants of parental investments in early childhood health.  <br /> 
+My current work focuses on understanding the role of digital healthcare technology and targeted incentives in improving access to high-quality care, and understanding parental investments in early childhood health.  <br /> 
 
 I've been involved in research projects throughout Africa and Latin America, and have conducted field work in Kenya, Madagascar, Zambia, Peru, Colombia and the Dominican Republic. Before graduate school, I worked at Innovations for Poverty Action in Zambia and in New Haven evaluating health and social safety net programs.
 
