@@ -18,7 +18,7 @@ keywords: Maria, Dieci, Health Economics, Berkeley
    <td style="vertical-align:middle">
    Maria Dieci<br>
    <br>
-   dieci [at] berkeley [dot] edu<br>
+   dieci@berkeley.edu<br>
    <br>
    Division of Health Policy and Management <br>
    School of Public Health <br>
