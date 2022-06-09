@@ -29,7 +29,7 @@ keywords: Maria, Dieci, Health Economics, Berkeley
 
 <br>
 
-Welcome! I am a PhD candidate in Health Economics at the University of California, Berkeley. I am on the job market in the 2021-2022 academic year. My research interests are in global health and development economics. <br /> 
+Welcome! Starting in August 2022, I will be an Assistant Professor of Health Policy and Management at Emory Rollins School of Public Health. I received my PhD in Health Economics at the University of California, Berkeley. My research interests are in health policy, global health and development economics. <br /> 
 
 My current work focuses on understanding the role of targeted incentives in improving coordination between patients and providers for high quality care, and understanding parental investments in early childhood health.  <br /> 
 
