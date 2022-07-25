@@ -2,7 +2,7 @@
 layout: frontpage
 title: Maria Dieci
 description: Maria Dieci's personal website. 
-keywords: Maria, Dieci, Health Economics, Berkeley
+keywords: Maria, Dieci, Health Economics, Berkeley, Emory, Health Policy
 ---
 
 <table width="100%">
@@ -18,11 +18,11 @@ keywords: Maria, Dieci, Health Economics, Berkeley
    <td style="vertical-align:middle">
    Maria Dieci<br>
    <br>
-   dieci@berkeley.edu<br>
+   mdieci@emory.edu<br>
    <br>
-   Division of Health Policy and Management <br>
-   School of Public Health <br>
-   University of California, Berkeley<br>
+   Department of Health Policy and Management <br>
+   Rollins School of Public Health <br>
+   Emory University<br>
    </td>
 </tr>
 </table>
