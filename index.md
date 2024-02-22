@@ -29,7 +29,7 @@ keywords: Maria, Dieci, Health Economics, Berkeley, Emory, Health Policy
 
 <br>
 
-Welcome! Starting in August 2022, I will be an Assistant Professor of Health Policy and Management at Emory Rollins School of Public Health. I received my PhD in Health Economics at the University of California, Berkeley. My research interests are in health policy, global health and development economics. <br /> 
+Welcome! I am an Assistant Professor of Health Policy and Management at Emory Rollins School of Public Health. I received my PhD in Health Economics at the University of California, Berkeley. My research interests are in health policy, global health and development economics. <br /> 
 
 My current work focuses on understanding the role of targeted incentives in improving coordination between patients and providers for high quality care, and understanding parental investments in early childhood health.  <br /> 
 
